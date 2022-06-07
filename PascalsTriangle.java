@@ -27,3 +27,6 @@ public class PascalsTriangle {
       }
    }
 }
+ }
+        System.out.println("Yayy, you did it!");
+      }
